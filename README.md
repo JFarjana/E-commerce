@@ -1,2 +1,2 @@
 # E-commerce
-It is a e-commerce website.
+It is an online book store.
