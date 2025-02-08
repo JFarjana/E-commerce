@@ -1,2 +1,2 @@
 # E-commerce
-It is an online book store.
+A report on online book store.
